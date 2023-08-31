@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 💻 I’m currently working with C++20.
-- 🧬 I’m currently working with **[LEAC](https://github.com/kdis-lab/LEAC)** library, how to design, implement and evaluate evolutionary algorithms.
+- 💻 I’m currently working with C++.
 - 📊 Learning **[Sciplot](https://github.com/sciplot/sciplot)**.
-- 🅰️ I had worked with Angular 14.
-- 📈 Knowledge in Javascript (NodeJS also), Typescript, HTML, CSS.
+- 🅰️ Experience with Angular 14.
+- 📈 Experience in Javascript (NodeJS also), Java ,Typescript, HTML, CSS.
