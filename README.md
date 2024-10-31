@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 - 💡 I’m currently working with Java.
-- 💻 Experience with POO on C++ and Java.
-- 📈 Experience in Angular 14,Javascript (NodeJS also), Java ,Typescript, HTML, CSS.
+- 💻 Experience with POO on with Java.
+- 📈 Experience with Angular,Javascript, Java ,Typescript, HTML.
