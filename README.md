@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 💡 I’m currently working with Java.
-- 💻 Experience with POO on with Java.
-- 🕵️ Java Testing with TestNG.
-- 🔬 Automation Testing using Selenium.
-- 📈 Experience with Angular,Javascript, Java ,Typescript, HTML.
+- 💡 Currently working with Java.
+- 🕵️ Automated Java Testing with TestNG and Playwright (Functional and API tests).
+- 📊 Basics of Performance Testing with K6.
+- 📈 Experience with Angular,Javascript,Typescript and HTML.
+- 📈 Experience with Testing Tools like Postman.
